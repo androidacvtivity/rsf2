@@ -1,0 +1,19 @@
+In repozitoriu https://github.com/androidacvtivity/rsf2
+fisierul rsf2_02_prod.js
+de facut modificarea 
+
+si de salvat in fisier cu  alt nume 
+
+De modificat validarea 
+-- Daca suntem in anul curent - luna octombrie 
+-- si dec_period_from = este din 01.01 anul curent 
+-- si dec_period_to nu este mai mare de ziua curenta 
+-- dec_lichidare este selecata 
+
+Sa nu afiseze RF2-032 -  altfel sa lucreze cu lagica care are 
+
+Sa fie o functie care se adauga. 
+
+
+
+Cod eroare: RF2-032 - Data sfirsitului perioadei de raportare nu este corecta
